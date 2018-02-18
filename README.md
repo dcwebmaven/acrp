@@ -3,4 +3,4 @@ Repository of files from the Airport Cooperative Research Program (ACRP) homepag
 
 This project was a redesign of an existing homepage, making it responsive and incorporating a new navigational structure and an integrated search feature.
 
-The project uses the Bootstrap framework within Centralpoint by Oxcyon CMS.
+The project uses the Bootstrap framework within a CMS called "Centralpoint" by Oxcyon.
