@@ -1,0 +1,40 @@
+/* Supporting marketing content */
+.marketing {
+  margin: 40px 0;
+}
+.marketing p + h4 {
+  margin-top: 28px;
+}
+
+
+@media screen and (min-width: 768px) {
+
+.featurette {
+    display:inline-flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content:center;
+    align-items:center;
+    }
+
+}
+
+
+@media screen and (max-width: 767px) {
+	.hidden-xs {
+		display: none;
+		visibility: hidden;
+	}
+
+
+/* featurettes */
+    .featurette {
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        justify-content: center;
+        align-content: center;
+        align-items: flex-start;
+    }
+
+    }   
